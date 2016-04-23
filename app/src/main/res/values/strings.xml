@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FileExplorer</string>
+    <string name="search_title">Search</string>
+    <string name="dummy_text">Dummy text</string>
+    <string name="one_folder_up">one folder up</string>
+    <string name="open_folder_image">open folder image</string>
+    <string name="file_image_view_description">Image for file list</string>
+    <string name="path_media_folder">/mnt/sdcard/</string>
+</resources>
